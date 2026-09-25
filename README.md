@@ -23,5 +23,5 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 - Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
 
 <h2>Incident Report Analysis</h2>
-Download the [Incident report analysis NIST framework](Incident%20report%20analysis%20NIST%20framework.docx)
+Download the (https://github.com/Ghost25-tech/NIST-CSF-Security-framework-Incident-Report/blob/main/Incident%20report%20analysis%20NIST%20framework.docx))
 
